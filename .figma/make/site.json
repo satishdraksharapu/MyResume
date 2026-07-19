@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your professional profile with a personalized resume website designed for .NET developers, highlighting coding skills, system design, and leadership.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
